@@ -1,0 +1,13 @@
+[color]
+        ui = true
+[user]
+        name = Yagi7337
+        email = yagi7337@gmail.com
+[credential]
+        helper = cache --timeout=3600
+[alias]
+    ch = checkout
+    br = branch
+    com = commit -m
+    st = status
+
